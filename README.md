@@ -1,9 +1,5 @@
 # Hello 👋🏻
 
-My Dear Friemds 😝
-
-<b> I am [Heiman](https://github.com/HeimanPictures), 
-Find Me In TG As [HeimanCreatiin](https://telegram.dog/HeimanCreatiin), [Heiman Creation](https://telegram.dog/HeimanCreation), Etc,. </b>
 
 ### About 🙋🏻‍♂️
 ```python
