@@ -20,7 +20,7 @@ Relation = os.environ.get("SINGLE", "single 😇") # LMAO 🤣🤣🤣
 
 ## My Info <img src="https://github.com/HeimanPictures/HeimanPictures/blob/main/Design/Hi.gif" width="30px"></h2>
 
-<img align="right" alt="cmulay | Read Book" src="https://github.com/MaxxCoderZ/MaxxCoderZ/blob/main/20210525_213823.png" width="300" height="300"/>
+<img align="right" alt="cmulay | Read Book" src="https://github.com/MaxxCoderZ/MaxxCoderZ/blob/main/20210525_213823.png"/>
 
 ##
 
