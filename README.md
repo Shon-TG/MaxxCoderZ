@@ -1,6 +1,6 @@
 # Hello 👋🏻
 
-<b>I'm HexRidder from India, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.</b>
+<b>I'm Maxx from India 🇮🇳, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.</b>
 
 ### About 🙋🏻‍♂️
 ```python
@@ -22,17 +22,19 @@ Relation = os.environ.get("SINGLE", "single 😇") # LMAO 🤣🤣🤣
 
 <img align="right" alt="cmulay | Read Book" src="https://github.com/MaxxCoderZ/MaxxCoderZ/blob/main/20210525_213823.png"/>
 
-##
 
-👋🏻 <b>Just an Extreme Python Crazy Coder, You Can Find Me In Telegram As [Maxx ⚡](https://telegram.me/MaxxCoderZ)</b> 😝
+## Maxx Coderz
+
+👋🏻 <b>I'm Maxx from India 🇮🇳, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
+You Can Find Me In Telegram As [Maxx](https://telegram.me/MaxxCoderZ)</b>
 
 - I’m currently working with Python, Other Languages Also.
 
-- I’m currently studying in 10th, And trying to catch python Language completely...
+- I’m currently studying, And trying to catch python Language completely...
 
 - How to reach me: [MaxxCoderZ](https://telegram.me/MaxxcoderZ)
 
-- Mail Me : [Click here](mailto:Hexrider2008@gmail.com)
+- You Can Mail Me : [Click here](mailto:Hexrider2008@gmail.com)
 
 - Join Our Telegram Channel : <a href="https://t.me/CoderzHEX"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
 
@@ -54,7 +56,7 @@ So, Don't Underestimate Any User Having Low Stats.. 😝😝🤪
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaxxCoderZ&" alt="MaxxCoderZ" /></p>
 
-[![portfolio badge](https://img.shields.io/badge/Check_out_my-portfolio-rblue?style=for-the-badge&logo=git&logoColor=white)](http://www.NexonHEX.weebly.Com/)
+[![portfolio badge](https://img.shields.io/badge/Check_out_my-portfolio-rblue?style=for-the-badge&logo=git&logoColor=white)](http://www.NexonHEXin.weebly.Com/)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxxCoderZ&layout=compact&theme=radical)](https://github.com/MaxxCoderZ)
